@@ -1,6 +1,6 @@
 function Author() {
   return (
-    <div className='absolute bottom-16 left-0 w-full text-center text-sm text-primary-foreground'>
+    <div className='absolute bottom-2 left-0 w-full text-center text-sm text-primary-foreground'>
       Challenge by
       <a
         href='https://www.frontendmentor.io?ref=challenge'
